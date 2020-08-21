@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1cdf2d117bf83f59ddeb820842ecc5ec",
+    "revision": "f014737d10571685a31da08484011785",
     "url": "/NLW-01-Ecoleta-web/index.html"
   },
   {
-    "revision": "21f206baf2c6fbdd0375",
+    "revision": "adb32f229c982fe1be8b",
     "url": "/NLW-01-Ecoleta-web/static/css/main.ffe3af43.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/NLW-01-Ecoleta-web/static/js/2.66bd9d3b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "21f206baf2c6fbdd0375",
-    "url": "/NLW-01-Ecoleta-web/static/js/main.0360cd39.chunk.js"
+    "revision": "adb32f229c982fe1be8b",
+    "url": "/NLW-01-Ecoleta-web/static/js/main.5fa12c8f.chunk.js"
   },
   {
     "revision": "3769b65ca904733d6acc",
