@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/NLW-01-Ecoleta-web/static/css/main.ffe3af43.chunk.css",
-    "main.js": "/NLW-01-Ecoleta-web/static/js/main.821235bd.chunk.js",
-    "main.js.map": "/NLW-01-Ecoleta-web/static/js/main.821235bd.chunk.js.map",
-    "runtime-main.js": "/NLW-01-Ecoleta-web/static/js/runtime-main.67071912.js",
-    "runtime-main.js.map": "/NLW-01-Ecoleta-web/static/js/runtime-main.67071912.js.map",
-    "static/js/2.474e283d.chunk.js": "/NLW-01-Ecoleta-web/static/js/2.474e283d.chunk.js",
-    "static/js/2.474e283d.chunk.js.map": "/NLW-01-Ecoleta-web/static/js/2.474e283d.chunk.js.map",
-    "index.html": "/NLW-01-Ecoleta-web/index.html",
-    "precache-manifest.44cea614deafdf99a504e18d02f041e6.js": "/NLW-01-Ecoleta-web/precache-manifest.44cea614deafdf99a504e18d02f041e6.js",
-    "service-worker.js": "/NLW-01-Ecoleta-web/service-worker.js",
-    "static/css/main.ffe3af43.chunk.css.map": "/NLW-01-Ecoleta-web/static/css/main.ffe3af43.chunk.css.map",
-    "static/js/2.474e283d.chunk.js.LICENSE.txt": "/NLW-01-Ecoleta-web/static/js/2.474e283d.chunk.js.LICENSE.txt",
-    "static/media/styles.css": "/NLW-01-Ecoleta-web/static/media/home-background.fe2283e1.svg",
-    "static/media/logo.svg": "/NLW-01-Ecoleta-web/static/media/logo.47c4581a.svg"
+    "main.css": "/tecanderson.github.io/NLW-01-Ecoleta-web/static/css/main.210af9f6.chunk.css",
+    "main.js": "/tecanderson.github.io/NLW-01-Ecoleta-web/static/js/main.0360cd39.chunk.js",
+    "main.js.map": "/tecanderson.github.io/NLW-01-Ecoleta-web/static/js/main.0360cd39.chunk.js.map",
+    "runtime-main.js": "/tecanderson.github.io/NLW-01-Ecoleta-web/static/js/runtime-main.e3127284.js",
+    "runtime-main.js.map": "/tecanderson.github.io/NLW-01-Ecoleta-web/static/js/runtime-main.e3127284.js.map",
+    "static/js/2.66bd9d3b.chunk.js": "/tecanderson.github.io/NLW-01-Ecoleta-web/static/js/2.66bd9d3b.chunk.js",
+    "static/js/2.66bd9d3b.chunk.js.map": "/tecanderson.github.io/NLW-01-Ecoleta-web/static/js/2.66bd9d3b.chunk.js.map",
+    "index.html": "/tecanderson.github.io/NLW-01-Ecoleta-web/index.html",
+    "precache-manifest.2e78a187ccc9cc98d72a9d056bed6855.js": "/tecanderson.github.io/NLW-01-Ecoleta-web/precache-manifest.2e78a187ccc9cc98d72a9d056bed6855.js",
+    "service-worker.js": "/tecanderson.github.io/NLW-01-Ecoleta-web/service-worker.js",
+    "static/css/main.210af9f6.chunk.css.map": "/tecanderson.github.io/NLW-01-Ecoleta-web/static/css/main.210af9f6.chunk.css.map",
+    "static/js/2.66bd9d3b.chunk.js.LICENSE.txt": "/tecanderson.github.io/NLW-01-Ecoleta-web/static/js/2.66bd9d3b.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/tecanderson.github.io/NLW-01-Ecoleta-web/static/media/home-background.fe2283e1.svg",
+    "static/media/logo.svg": "/tecanderson.github.io/NLW-01-Ecoleta-web/static/media/logo.47c4581a.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.67071912.js",
-    "static/js/2.474e283d.chunk.js",
-    "static/css/main.ffe3af43.chunk.css",
-    "static/js/main.821235bd.chunk.js"
+    "static/js/runtime-main.e3127284.js",
+    "static/js/2.66bd9d3b.chunk.js",
+    "static/css/main.210af9f6.chunk.css",
+    "static/js/main.0360cd39.chunk.js"
   ]
 }
