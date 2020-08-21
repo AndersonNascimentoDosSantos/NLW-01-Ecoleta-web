@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/NLW-01-Ecoleta-web/static/css/main.ffe3af43.chunk.css",
-    "main.js": "/NLW-01-Ecoleta-web/static/js/main.bd4551a6.chunk.js",
-    "main.js.map": "/NLW-01-Ecoleta-web/static/js/main.bd4551a6.chunk.js.map",
+    "main.js": "/NLW-01-Ecoleta-web/static/js/main.33175da7.chunk.js",
+    "main.js.map": "/NLW-01-Ecoleta-web/static/js/main.33175da7.chunk.js.map",
     "runtime-main.js": "/NLW-01-Ecoleta-web/static/js/runtime-main.5dc35291.js",
     "runtime-main.js.map": "/NLW-01-Ecoleta-web/static/js/runtime-main.5dc35291.js.map",
     "static/js/2.66bd9d3b.chunk.js": "/NLW-01-Ecoleta-web/static/js/2.66bd9d3b.chunk.js",
     "static/js/2.66bd9d3b.chunk.js.map": "/NLW-01-Ecoleta-web/static/js/2.66bd9d3b.chunk.js.map",
     "index.html": "/NLW-01-Ecoleta-web/index.html",
-    "precache-manifest.764b289320ba829c94e45f742663ff65.js": "/NLW-01-Ecoleta-web/precache-manifest.764b289320ba829c94e45f742663ff65.js",
+    "precache-manifest.a24ba70c6ebc3c00bd3b2d87e12a061c.js": "/NLW-01-Ecoleta-web/precache-manifest.a24ba70c6ebc3c00bd3b2d87e12a061c.js",
     "service-worker.js": "/NLW-01-Ecoleta-web/service-worker.js",
     "static/css/main.ffe3af43.chunk.css.map": "/NLW-01-Ecoleta-web/static/css/main.ffe3af43.chunk.css.map",
     "static/js/2.66bd9d3b.chunk.js.LICENSE.txt": "/NLW-01-Ecoleta-web/static/js/2.66bd9d3b.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.5dc35291.js",
     "static/js/2.66bd9d3b.chunk.js",
     "static/css/main.ffe3af43.chunk.css",
-    "static/js/main.bd4551a6.chunk.js"
+    "static/js/main.33175da7.chunk.js"
   ]
 }
