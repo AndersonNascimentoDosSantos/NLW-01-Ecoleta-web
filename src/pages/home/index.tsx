@@ -3,7 +3,7 @@ import logo from '../../assets/logo.svg';
 import {FiLogIn} from 'react-icons/fi';
 import './styles.css'; 
 import {Link} from 'react-router-dom';
-const Home =()=>{
+const Home = ( ) => {
     return (
 <div id="page-home">
     <div className="content">
