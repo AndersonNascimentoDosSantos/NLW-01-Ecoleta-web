@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/NLW-02-Ecoleta-Web/static/css/main.0e2aa25a.chunk.css",
-    "main.js": "/NLW-02-Ecoleta-Web/static/js/main.821235bd.chunk.js",
-    "main.js.map": "/NLW-02-Ecoleta-Web/static/js/main.821235bd.chunk.js.map",
-    "runtime-main.js": "/NLW-02-Ecoleta-Web/static/js/runtime-main.aa0a7f6a.js",
-    "runtime-main.js.map": "/NLW-02-Ecoleta-Web/static/js/runtime-main.aa0a7f6a.js.map",
-    "static/js/2.474e283d.chunk.js": "/NLW-02-Ecoleta-Web/static/js/2.474e283d.chunk.js",
-    "static/js/2.474e283d.chunk.js.map": "/NLW-02-Ecoleta-Web/static/js/2.474e283d.chunk.js.map",
-    "index.html": "/NLW-02-Ecoleta-Web/index.html",
-    "precache-manifest.d5f399c58147745685582876499353a0.js": "/NLW-02-Ecoleta-Web/precache-manifest.d5f399c58147745685582876499353a0.js",
-    "service-worker.js": "/NLW-02-Ecoleta-Web/service-worker.js",
-    "static/css/main.0e2aa25a.chunk.css.map": "/NLW-02-Ecoleta-Web/static/css/main.0e2aa25a.chunk.css.map",
-    "static/js/2.474e283d.chunk.js.LICENSE.txt": "/NLW-02-Ecoleta-Web/static/js/2.474e283d.chunk.js.LICENSE.txt",
-    "static/media/styles.css": "/NLW-02-Ecoleta-Web/static/media/home-background.fe2283e1.svg",
-    "static/media/logo.svg": "/NLW-02-Ecoleta-Web/static/media/logo.47c4581a.svg"
+    "main.css": "/NLW-01-Ecoleta-web/static/css/main.ffe3af43.chunk.css",
+    "main.js": "/NLW-01-Ecoleta-web/static/js/main.821235bd.chunk.js",
+    "main.js.map": "/NLW-01-Ecoleta-web/static/js/main.821235bd.chunk.js.map",
+    "runtime-main.js": "/NLW-01-Ecoleta-web/static/js/runtime-main.67071912.js",
+    "runtime-main.js.map": "/NLW-01-Ecoleta-web/static/js/runtime-main.67071912.js.map",
+    "static/js/2.474e283d.chunk.js": "/NLW-01-Ecoleta-web/static/js/2.474e283d.chunk.js",
+    "static/js/2.474e283d.chunk.js.map": "/NLW-01-Ecoleta-web/static/js/2.474e283d.chunk.js.map",
+    "index.html": "/NLW-01-Ecoleta-web/index.html",
+    "precache-manifest.44cea614deafdf99a504e18d02f041e6.js": "/NLW-01-Ecoleta-web/precache-manifest.44cea614deafdf99a504e18d02f041e6.js",
+    "service-worker.js": "/NLW-01-Ecoleta-web/service-worker.js",
+    "static/css/main.ffe3af43.chunk.css.map": "/NLW-01-Ecoleta-web/static/css/main.ffe3af43.chunk.css.map",
+    "static/js/2.474e283d.chunk.js.LICENSE.txt": "/NLW-01-Ecoleta-web/static/js/2.474e283d.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/NLW-01-Ecoleta-web/static/media/home-background.fe2283e1.svg",
+    "static/media/logo.svg": "/NLW-01-Ecoleta-web/static/media/logo.47c4581a.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.aa0a7f6a.js",
+    "static/js/runtime-main.67071912.js",
     "static/js/2.474e283d.chunk.js",
-    "static/css/main.0e2aa25a.chunk.css",
+    "static/css/main.ffe3af43.chunk.css",
     "static/js/main.821235bd.chunk.js"
   ]
 }
